@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @jinsung20
+- 👀 I’m interested in learning-based control
+- 📫 control.jkim@gmail.com
