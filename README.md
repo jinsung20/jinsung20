@@ -1,3 +1,1 @@
-- 👋 Hi, I’m @jinsung20
-- 👀 I’m interested in data-driven approach for modelign and control systems.
-- 📫 control.jkim@gmail.com
+
